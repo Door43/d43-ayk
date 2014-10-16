@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayk:home|Door43 (ayk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayk|d43-ayk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayk/archive/master.zip|d43-ayk.zip]]
+
+**Recent Changes**
+{{changes>ns = ayk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayk|Ethnologue data]]
+
